@@ -15,7 +15,7 @@
 
 - 📫 You can contact me at **sanketkj84@gmail.com**
 
-- 📄 Check out my resume at <a href="https://drive.google.com/file/d/1-19gPQu0kEBVe9smupUEoxrddXagXZ5P/view?usp=sharing">Sanket Jadhav's Resume</a>
+- 📄 Check out my resume at <a href="https://drive.google.com/file/d/17i7q9idsohfhNgYIdgL6N1UbGTjrSYPz/view?usp=sharing">Sanket Jadhav's Resume</a>
 
 - ⚡ Fun fact **I enjoy exploring new technologies**
 
