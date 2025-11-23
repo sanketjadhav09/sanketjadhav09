@@ -14,7 +14,7 @@
 
 - 📫 You can contact me at **sanketkj84@gmail.com**
 
-- 📄 Check out my resume at <a href="https://drive.google.com/file/d/18uCjdzHccaetOOCi26TpCbzVyIM_g3CT/view?usp=sharing">**Sanket's Resume**</a>
+- 📄 Check out my resume at <a href="https://drive.google.com/file/d/1zLVzP45x9lOqwXzfC1mSEuaoSwdpARNp/view?usp=sharing">**Sanket's Resume**</a>
 
 - 🌐 Explore all my profiles at <a href="https://linktr.ee/sanketjadhav15" target="_blank">**My Linktree**</a>
 
