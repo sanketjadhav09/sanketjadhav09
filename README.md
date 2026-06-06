@@ -171,7 +171,7 @@ Data Analytics & Visualization • Generative AI & Cloud Computing • Artificia
 
 *AI-powered solutions that actually work (most of the time):*
 
-### 🤖 **[ClearClause](https://clearclause-legal-ai-assistant.streamlit.app/)** - Your AI Legal Companion
+### 🤖 **[ClearClause](https://clearclause-ai.streamlit.app/)** - Your AI Legal Companion
 
 An intelligent legal assistant that transforms how you interact with complex legal documents. Powered by Google Gemini API and LangChain, it performs instant Q&A, generates concise summaries, and provides multilingual translations. Features semantic search using FAISS vector storage that cuts query response time by 30%, and a custom-designed Streamlit interface that boosted user task completion by 40%.
 
